@@ -1,3 +1,8 @@
+'''
+Product: Website Hacktoberfest Project
+Description: Flask app that runs index.html
+Author: Benjamin Norman 2022
+'''
 from flask import Flask, render_template
 
 app = Flask(__name__)
